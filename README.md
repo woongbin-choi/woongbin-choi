@@ -7,7 +7,7 @@
 <strong>🌱Junior Developer🌱</strong><br><br>
 📜 Portfolio : https://woongbin-choi.github.io/<br>
 📝 Blog : https://woongbin96.tistory.com/<br>
-📫 Contact : "mailto:woongbin96@naver.com"<br>
+📫 Contact : woongbin96@naver.com<br>
 
 
 
