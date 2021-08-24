@@ -9,7 +9,7 @@
 📝 Blog : https://woongbin96.tistory.com/<br>
 📫 Contact : woongbin96@naver.com<br><br>
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strou73)](https://solved.ac/strou73/)<br>
+ 
 
 
 
