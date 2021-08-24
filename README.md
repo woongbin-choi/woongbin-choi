@@ -38,6 +38,8 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strou73)](https://solved.ac/strou73/)
+
 <!--
 **woongbin-choi/woongbin-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
