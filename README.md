@@ -36,6 +36,12 @@
  <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woongbin96)](https://solved.ac/woongbin96/)
+ 
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj={woongbin96})](https://solved.ac/{woongbin96})
+
+ 
+ 
 
 </div>
 
