@@ -18,7 +18,7 @@
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)
  --> 
   
-﹏﹏﹏﹏﹏﹏﹏
+<!-- ﹏﹏﹏﹏﹏﹏﹏ -->
 
 
 <!-- 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/> -->
  
 <!-- <br> -->
- <br>
+<!--  <br> -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woongbin96)](https://solved.ac/woongbin96/)
  
@@ -42,7 +42,7 @@
 
 
 
-<br/>
+<!-- <br/> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
