@@ -7,8 +7,8 @@
 <strong>🌱Junior Developer🌱</strong><br><br>
 <!-- 📜 Portfolio : https://woongbin-choi.github.io/<br> -->
 📝 Blog : https://binco.tistory.com/<br>
-🏢 Management Site : https://www.facebook.com/trendsearching/<br>
 📫 Contact : woongbin96@naver.com<br><br>
+🏢 Management Site : https://www.facebook.com/trendsearching/<br>
 
  
 <br/>
