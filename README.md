@@ -6,8 +6,8 @@
 <br/>
 <strong>🌱Junior Developer🌱</strong><br><br>
 📝 Blog : https://binco.tistory.com/<br>
-📫 Contact : woongbin96@naver.com<br><br>
-🏢 Management Site : https://www.facebook.com/trendsearching/
+📫 Contact : woongbin96@naver.com<br>
+🏢 Management Site : https://www.facebook.com/trendsearching/<br>
 📜 Portfolio :https://shadow-asparagus-934.notion.site/Binco-91913c5f2f1d486ca57a8ec1db5e4043
 
 <br/>
