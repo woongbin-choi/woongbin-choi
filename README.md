@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-B7178C?style=flat-square&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/SqlDeveloper-FFCA28?style=flat-square&logo=Oracle&logoColor=black"/> -->
- 
 <!-- <br> -->
 <!--  <br> -->
 
